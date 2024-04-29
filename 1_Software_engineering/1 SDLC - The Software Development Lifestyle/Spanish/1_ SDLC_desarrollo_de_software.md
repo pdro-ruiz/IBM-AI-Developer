@@ -1,4 +1,4 @@
-# SDLC Software development
+# SDLC Desarrollo de Software
 
 ## Qué es la Ingeniería de Software?
 
